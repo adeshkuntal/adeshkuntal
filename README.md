@@ -33,15 +33,15 @@
 | Airbnb Clone | [🔗 View](https://airbnbclone-uxgu.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/AirbnbClone) |
 
 ---
-
 ## 🛠 Tech Stack
 
 **Frontend:** React.js, Vite, EJS, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js, Flask  
 **Database:** MongoDB, Mongoose  
-**IoT:** ESP32,Arduino,Raspberry Pi
+**IoT:** ESP32, Arduino, Raspberry Pi  
 **AI/ML:** Python, OpenCV, NumPy, pandas, TensorFlow/Keras  
 **Other Tools:** Socket.IO, WebSockets, Git, Vercel, Render
+
 
 
 ---
