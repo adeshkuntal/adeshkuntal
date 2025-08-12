@@ -46,10 +46,12 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **[Restaurant Menu + Orders API](REPO_LINK)** — Razorpay integration, EJS frontend, real-time updates with Socket.IO  
-- 🔹 **[Trello Clone](REPO_LINK)** — Project management tool with CRUD tasks, live collaboration  
-- 🔹 **[Pokémon API App](REPO_LINK)** — Search Pokémon by ID and view stats  
+| Project | Description | Tech Stack | Key Features |
+|---------|-------------|------------|--------------|
+| [🍽️ Restaurant App](https://restaurantapp-on2v.onrender.com) | Full-featured restaurant menu & ordering system with Razorpay integration. | Node.js, Express.js, MongoDB, EJS, Razorpay | - User registration & login <br> - Browse menu & place orders <br> - Secure online payments via Razorpay |
+| [📹 Zoom Clone App](https://zoom-clone-5q3x.onrender.com) | Real-time video conferencing app with chat and meeting controls. | Node.js, Express.js, WebRTC, Socket.io, EJS | - Start/join video calls <br> - Floating chat box & emojis <br> - Sound notifications for new users |
+| [🏠 Airbnb Clone](https://airbnbclone-uxgu.onrender.com) | Property rental platform with booking & host management features. | React.js, Node.js, Express.js, MongoDB | - Browse & search listings <br> - Host property management <br> - Booking and payment integration |
+ 
 
 ---
 
