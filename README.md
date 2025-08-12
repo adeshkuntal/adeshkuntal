@@ -8,9 +8,11 @@
 
 ---
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeshkuntal&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=adeshkuntal&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshkuntal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshkuntal&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
 </p>
 
 
