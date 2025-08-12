@@ -56,7 +56,7 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesh-kuntal-b02944288/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AdeshKuntal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-1-5ucf.onrender.com/profile/689b6b87d7815ec2659f31b3)
 
 ---
 ⭐️ From [Adesh Kumar](https://github.com/YOUR_GITHUB_USERNAME)
