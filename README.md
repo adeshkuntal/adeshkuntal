@@ -1,7 +1,7 @@
 # Hi there, I'm Adesh Kumar 👋
 
 ## 👨‍💻 About Me
-- 🎓 2nd-year B.Tech CSE student specializing in **AI, ML & IoT** at GLA University.
+- 🎓 3rd-year B.Tech CSE student specializing in **AI, ML & IoT** at GLA University.
 - 💡 Passionate about building **full-stack web apps**, **AI tools**, and **automation scripts**.
 - 📚 Currently learning **Node.js**, **Express.js**, and **React**.
 - 🎯 Goal: Become a skilled **AI-driven software engineer**.
