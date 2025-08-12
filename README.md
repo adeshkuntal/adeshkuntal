@@ -10,15 +10,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adeshkunatl&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeshkuntal&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 🏆 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/adeshkuntal?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
