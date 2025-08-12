@@ -28,9 +28,9 @@
 ## 🚀 Live Demos — My Projects
 | Project Name | Live Demo | GitHub Repo |
 |--------------|-----------|-------------|
-| Smart Recipe App | [🔗 View](LIVE_LINK_HERE) | [📂 Repo](REPO_LINK_HERE) |
-| Zoom Clone App | [🔗 View](LIVE_LINK_HERE) | [📂 Repo](REPO_LINK_HERE) |
-| AI Email Responder | [🔗 View](LIVE_LINK_HERE) | [📂 Repo](REPO_LINK_HERE) |
+| Restaurant App | [🔗 View](https://restaurantapp-on2v.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/RestaurantApp) |
+| Zoom Clone App | [🔗 View](https://zoom-clone-5q3x.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/Zoom-Clone) |
+| Airbnb Clone | [🔗 View](https://airbnbclone-uxgu.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/AirbnbClone) |
 
 ---
 
