@@ -61,4 +61,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-1-5ucf.onrender.com/profile/689b6b87d7815ec2659f31b3)
 
 ---
-⭐️ From [Adesh Kumar](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Adesh Kumar](https://github.com/adeshkuntal)
