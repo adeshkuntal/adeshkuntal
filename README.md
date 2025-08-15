@@ -31,6 +31,7 @@
 | Restaurant App | [🔗 View](https://restaurantapp-on2v.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/RestaurantApp) |
 | Zoom Clone App | [🔗 View](https://zoom-clone-5q3x.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/Zoom-Clone) |
 | Airbnb Clone | [🔗 View](https://airbnbclone-uxgu.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/AirbnbClone) |
+| Smart Recipe App | [🔗 View](https://smartreceipe.netlify.app/) | [📂 Repo](https://github.com/adeshkuntal/SmartRecipeApp) |
 
 ---
 ## 🛠 Tech Stack
