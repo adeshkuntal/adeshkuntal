@@ -32,6 +32,7 @@
 | Zoom Clone App | [🔗 View](https://zoom-clone-5q3x.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/Zoom-Clone) |
 | Airbnb Clone | [🔗 View](https://airbnbclone-uxgu.onrender.com) | [📂 Repo](https://github.com/adeshkuntal/AirbnbClone) |
 | Smart Recipe App | [🔗 View](https://smartreceipe.netlify.app/) | [📂 Repo](https://github.com/adeshkuntal/SmartRecipeApp) |
+| Memory Card Game | [🔗 View](https://memorycardgame9.netlify.app/) | [📂 Repo](https://github.com/adeshkuntal/MemoryCardGame) |
 
 ---
 ## 🛠 Tech Stack
@@ -54,6 +55,8 @@
 | [🍽️ Restaurant App](https://restaurantapp-on2v.onrender.com) | Full-featured restaurant menu & ordering system with Razorpay integration. | Node.js, Express.js, MongoDB, EJS, Razorpay | - User registration & login <br> - Browse menu & place orders <br> - Secure online payments via Razorpay |
 | [📹 Zoom Clone App](https://zoom-clone-5q3x.onrender.com) | Real-time video conferencing app with chat and meeting controls. | Node.js, Express.js, WebRTC, Socket.io, EJS | - Start/join video calls <br> - Floating chat box & emojis <br> - Sound notifications for new users |
 | [🏠 Airbnb Clone](https://airbnbclone-uxgu.onrender.com) | Property rental platform with booking & host management features. | React.js, Node.js, Express.js, MongoDB | - Browse & search listings <br> - Host property management <br> - Booking and payment integration |
+| [🃏 Memory Card Game](https://memorycardgame9.netlify.app/) | Multiplayer real-time card matching game with scoring and leaderboards. | React.js, Node.js, Express.js, Socket.IO | - Create or join game rooms <br> - Real-time card flips synced across players <br> - Leaderboard & score tracking <br> - Restart & winner announcement features |
+
  
 
 ---
